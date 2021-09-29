@@ -1,0 +1,12 @@
+id,type,category,price
+0,Book,Adventure,10.00
+1,Book,Sport,15.00
+2,Book,Music,14.00
+3,Book,Art,9.40
+4,Music,Rock,20.00
+5,Music,RnB,15.00
+6,Clothes,Pant,50.00
+7,Clothes,T-shirt,45.00
+8,Shoes,Sport,100.00
+9,Shoes,Casual,145.50
+10,Shoes,Work,200.00

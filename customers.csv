@@ -1,0 +1,32 @@
+id,firstname,lastname,email,created_at,country,gender
+0,Bob,Fischer,bob.fischer@gmail.com,2019-02-16 02:42:27,FR,M
+1,Elon,Musk,elon.musk@tesla.com,2019-02-19 04:15:06,US,M
+2,Marie,Curie,marie.curie@gmail.fr,2019-02-28 02:42:19,PL,F
+3,Steve,Jobs,steve.jobs@apple.com,2019-02-20 12:31:35,FR,M
+4,Beyoncé,Knowles,b.knowles@b.com,2019-03-01 14:31:30,US,F
+5,Ellen,DeGeneres,elen@tvshow.com,2019-03-02 16:02:23,US,F
+6,Julio,Iglesias,julio.es@gmail.com,2019-03-02 18:01:21,ES,M
+7,Jimmy,Fallon,jimmy@tonight.com,2019-03-06 00:01:03,US,M
+8,Oprah,Winfrey,oprah@oprah.com,2019-03-10 04:37:59,US,F
+9,Cristiano,Ronaldo,cristiano.ronaldo@gmail.com,2019-03-11 06:39:30,PT,M
+10,Mike,Horn,mike.horn@gmail.com,2019-03-13 08:20:01,ZA,M
+11,Nathalie,Portman,nat@gmail.com,2019-03-14 12:29:56,US,F
+12,Brigitte,Bardot,bb@gmail.com,2019-03-15 13:04:09,FR,F
+13,Lionel,Messi,leo@gmail.ar,2019-03-15 17:26:13,AR,M
+14,Gary,Kasparov,chess@chess.ru,2019-03-17 03:03:11,RU,M
+15,Brian,Chesky,bryan@airbnb.com,2019-03-18 07:01:52,US,M
+16,Robyn,Rihanna,riri@rihanna.com,2019-04-01 09:04:42,US,F
+17,Serena,Williams,serena@tennis.com,2019-04-02 10:03:32,US,F
+18,Jean,Dujardin,jean@dujardin.com,2019-04-03 11:10:32,FR,M
+19,Julien,Collet,julien@collet.com,2019-04-10 15:12:20,FR,M
+20,Tony,Hawk,tony.hawk@hotmail.fr,2019-04-20 15:14:22,US,M
+21,Megan,Rapinoe,megan@ussoccer.com,2019-04-21 10:20:40,US,F
+22,Gonzalo,Higuain,gonzalo@hotmail.ar,2019-04-22 20:24:43,AR,M
+23,Tiger ,Woods,tiger@woods.com,2019-04-24 22:20:12,US,M
+24,Neymar,Junior,ney@neymar.com,2019-04-25 23:23:02,BR,M
+25,Jenifer,Lopez,lopez@gmail.com,2019-04-26 10:01:02,US,F
+26,Juliette,Binoche,ju@binoche.com,2019-04-26 12:10:10,FR,F
+27,Jay,Z,jayz@gmail.com,2019-04-27 18:50:46,US,M
+28,Usain,Bolt,bolt@bolt.com,2019-04-28 00:50:26,JM,M
+29,Roger,Watter,pink@floyd.com,2019-04-29 10:54:10,US,M
+30,Jimmy,Morison,doors@gmail.com,2019-04-29 10:58:10,US,M
